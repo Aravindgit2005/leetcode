@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Aravindgit2005/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aravindgit2005/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aravindgit2005/leetcode/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/Aravindgit2005/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Aravindgit2005/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Aravindgit2005/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Aravindgit2005/leetcode/tree/master/0169-majority-element) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Aravindgit2005/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Aravindgit2005/leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Aravindgit2005/leetcode/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/Aravindgit2005/leetcode/tree/master/0053-maximum-subarray) |
 ## Recursion
 |  |
 | ------- |

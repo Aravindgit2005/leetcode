@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aravindgit2005/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Aravindgit2005/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Aravindgit2005/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Aravindgit2005/leetcode/tree/master/0189-rotate-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aravindgit2005/leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Aravindgit2005/leetcode/tree/master/0010-regular-expression-matching) |
 ## Sliding Window
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aravindgit2005/leetcode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Aravindgit2005/leetcode/tree/master/0023-merge-k-sorted-lists) |
 ## Heap (Priority Queue)
 |  |

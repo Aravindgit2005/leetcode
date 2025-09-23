@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Aravindgit2005/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Aravindgit2005/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Aravindgit2005/leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Aravindgit2005/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Aravindgit2005/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aravindgit2005/leetcode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Aravindgit2005/leetcode/tree/master/0258-add-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aravindgit2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Linked List
 |  |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Aravindgit2005/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aravindgit2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Aravindgit2005/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

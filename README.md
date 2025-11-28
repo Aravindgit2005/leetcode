@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Aravindgit2005/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Aravindgit2005/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aravindgit2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1512-number-of-good-pairs](https://github.com/Aravindgit2005/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aravindgit2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aravindgit2005/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aravindgit2005/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Aravindgit2005/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1512-number-of-good-pairs](https://github.com/Aravindgit2005/leetcode/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aravindgit2005/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Aravindgit2005/leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aravindgit2005/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/Aravindgit2005/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Database
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aravindgit2005/leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Aravindgit2005/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Aravindgit2005/leetcode/tree/master/0268-missing-number) |
+| [1512-number-of-good-pairs](https://github.com/Aravindgit2005/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |

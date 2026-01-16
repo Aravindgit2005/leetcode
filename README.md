@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aravindgit2005/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Aravindgit2005/leetcode/tree/master/0014-longest-common-prefix) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Aravindgit2005/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0058-length-of-last-word](https://github.com/Aravindgit2005/leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Aravindgit2005/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aravindgit2005/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie

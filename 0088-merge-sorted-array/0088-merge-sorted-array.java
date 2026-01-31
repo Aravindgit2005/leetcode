@@ -9,17 +9,16 @@ class Solution {
                 k--;
                 j--;
             }
-            else if(nums1[i]>nums2[j]){
-                nums1[k]=nums1[i];
+            else if(nums1[i]<nums2[j]){
+                nums1[k]=nums2[j];
                 k--;
-                i--;
+                j--;
             }
             else{
-                nums1[k]=nums2[j];
-                j--;
+                nums1[k]=nums1[i];
+                i--;
                 k--;
             }
-
         }
     }
     }

@@ -1,5 +1,5 @@
 class Solution {
-    public static void ra(int[] nums,int s,int e){
+    public void ra(int[] nums,int s,int e){
         while(s<e){
             int t=nums[s];
             nums[s]=nums[e];

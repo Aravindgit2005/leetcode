@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Aravindgit2005/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1695-maximum-erasure-value](https://github.com/Aravindgit2005/leetcode/tree/master/1695-maximum-erasure-value) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aravindgit2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3379-transformed-array](https://github.com/Aravindgit2005/leetcode/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/Aravindgit2005/leetcode/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Aravindgit2005/leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Aravindgit2005/leetcode/tree/master/0258-add-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aravindgit2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3379-transformed-array](https://github.com/Aravindgit2005/leetcode/tree/master/3379-transformed-array) |
 ## Linked List
 |  |
 | ------- |

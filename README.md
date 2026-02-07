@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aravindgit2005/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aravindgit2005/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aravindgit2005/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Aravindgit2005/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Aravindgit2005/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Aravindgit2005/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aravindgit2005/leetcode/tree/master/0283-move-zeroes) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Aravindgit2005/leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Aravindgit2005/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Aravindgit2005/leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Aravindgit2005/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Aravindgit2005/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Aravindgit2005/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aravindgit2005/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Aravindgit2005/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Aravindgit2005/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aravindgit2005/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Aravindgit2005/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aravindgit2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1695-maximum-erasure-value](https://github.com/Aravindgit2005/leetcode/tree/master/1695-maximum-erasure-value) |
 ## Simulation

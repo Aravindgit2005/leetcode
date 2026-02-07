@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aravindgit2005/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aravindgit2005/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Aravindgit2005/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/Aravindgit2005/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Aravindgit2005/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Aravindgit2005/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aravindgit2005/leetcode/tree/master/0283-move-zeroes) |

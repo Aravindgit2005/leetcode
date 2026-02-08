@@ -18,4 +18,5 @@ class Solution {
 
         return res;
     }
-}
+}///also do in two pointer try that also
+

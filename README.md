@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aravindgit2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3379-transformed-array](https://github.com/Aravindgit2005/leetcode/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/Aravindgit2005/leetcode/tree/master/3637-trionic-array-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/Aravindgit2005/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Aravindgit2005/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/Aravindgit2005/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1695-maximum-erasure-value](https://github.com/Aravindgit2005/leetcode/tree/master/1695-maximum-erasure-value) |
+| [3719-longest-balanced-subarray-i](https://github.com/Aravindgit2005/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Aravindgit2005/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Aravindgit2005/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Aravindgit2005/leetcode/tree/master/0169-majority-element) |
+| [3719-longest-balanced-subarray-i](https://github.com/Aravindgit2005/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
 | ------- |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Aravindgit2005/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Aravindgit2005/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aravindgit2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Aravindgit2005/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -291,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Aravindgit2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Aravindgit2005/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->

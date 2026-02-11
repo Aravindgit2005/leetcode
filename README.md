@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aravindgit2005/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aravindgit2005/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aravindgit2005/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Aravindgit2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Aravindgit2005/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/Aravindgit2005/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1695-maximum-erasure-value](https://github.com/Aravindgit2005/leetcode/tree/master/1695-maximum-erasure-value) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Aravindgit2005/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aravindgit2005/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Aravindgit2005/leetcode/tree/master/0392-is-subsequence) |
+| [0451-sort-characters-by-frequency](https://github.com/Aravindgit2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Aravindgit2005/leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Aravindgit2005/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Aravindgit2005/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -119,12 +121,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aravindgit2005/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aravindgit2005/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aravindgit2005/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/Aravindgit2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aravindgit2005/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Aravindgit2005/leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aravindgit2005/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Aravindgit2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/Aravindgit2005/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Database
 |  |
@@ -233,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aravindgit2005/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0451-sort-characters-by-frequency](https://github.com/Aravindgit2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Merge Sort
 |  |
 | ------- |
@@ -280,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aravindgit2005/leetcode/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/Aravindgit2005/leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Aravindgit2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->

@@ -11,7 +11,7 @@ class Solution {
 
             for (int r = l; r < n; r++) {
                 int x = nums[r];
-                if ((x & 1) == 0) evenSet.add(x);
+                if ((x%2) == 0) evenSet.add(x);
                 else oddSet.add(x);
 
                 if (evenSet.size() == oddSet.size()) {

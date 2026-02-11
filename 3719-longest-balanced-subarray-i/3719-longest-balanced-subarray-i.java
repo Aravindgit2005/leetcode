@@ -2,24 +2,25 @@ import java.util.*;
 
 class Solution {
     public int longestBalanced(int[] nums) {
-        int n = nums.length;
-        int ans = 0;
+        int ans=0;
+        for(int i=0;i<nums.length;i++){
+                    Set<Integer>st=new HashSet<>();
 
-        for (int l = 0; l < n; l++) {
-            HashSet<Integer> evenSet = new HashSet<>();
-            HashSet<Integer> oddSet = new HashSet<>();
-
-            for (int r = l; r < n; r++) {
-                int x = nums[r];
-                if ((x%2) == 0) evenSet.add(x);
-                else oddSet.add(x);
-
-                if (evenSet.size() == oddSet.size()) {
-                    ans = Math.max(ans, r - l + 1);
+            int even=0;
+            int odd=0;
+            for(int j=i;j<nums.length;j++){
+                int x=nums[j];
+                if(!st.contains(x)){
+                    if(x%2==0)even++;
+                    else odd++;
+                    st.add(x);
+                }
+                if(even==odd){
+                    ans=Math.max(ans,j-i+1);
                 }
             }
+         
         }
-
-        return ans;
-    }
+           return ans;
+}
 }

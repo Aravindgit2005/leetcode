@@ -1,42 +1,43 @@
+import java.util.*;
+
 class Solution {
-    public int shipWithinDays(int[] weights, int days) {
-        int sum = 0,max = 0;
-        for(int num : weights)
-        {
-            sum += num;
-            max = Math.max(max,num);
-        }
-        int low = max,high = sum;
-        int res = 0;
-        while(low <= high)
-        {
-            int mid = low+(high-low)/2;
-            if(isValid(weights,days,mid))
-            {
-                res = mid;
-                high = mid-1;
-            }
-            else
-            {
-                low = mid+1;
+
+    public int daysneeded(int[] w, int cap){
+        int day = 1;
+        int load = 0;
+
+        for(int i = 0; i < w.length; i++){
+            if(load + w[i] > cap){
+                day++;
+                load = w[i];
+            } else {
+                load += w[i];
             }
         }
-        return res;
+        return day;
     }
-    public boolean isValid(int weights[],int days,int mid)
-    {
-        int count = 1;
-        int sum = 0;
-        for(int i=0;i<weights.length;i++)
-        {
-            sum += weights[i];
-            if(sum > mid)
-            {
-                sum = weights[i];
-                count++;
+
+    public int shipWithinDays(int[] w, int days){
+
+        int left = Arrays.stream(w).max().getAsInt();
+        int right = Arrays.stream(w).sum();
+
+        int ans = right;
+
+        while(left <= right){
+
+            int mid = left + (right - left) / 2;
+
+            int needed = daysneeded(w, mid);
+
+            if(needed <= days){
+                ans = mid;
+                right = mid - 1;
+            } else {
+                left = mid + 1;
             }
         }
-        return count <= days;
+
+        return ans;
     }
-    //Please upvote
 }

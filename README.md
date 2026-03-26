@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Aravindgit2005/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1695-maximum-erasure-value](https://github.com/Aravindgit2005/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/Aravindgit2005/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Aravindgit2005/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aravindgit2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3379-transformed-array](https://github.com/Aravindgit2005/leetcode/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/Aravindgit2005/leetcode/tree/master/3637-trionic-array-i) |
@@ -338,10 +339,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Aravindgit2005/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Aravindgit2005/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aravindgit2005/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Aravindgit2005/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aravindgit2005/leetcode/tree/master/0042-trapping-rain-water) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Aravindgit2005/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Greedy
 |  |
 | ------- |

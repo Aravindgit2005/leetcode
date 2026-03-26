@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Aravindgit2005/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Aravindgit2005/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aravindgit2005/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Aravindgit2005/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Aravindgit2005/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Aravindgit2005/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Aravindgit2005/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Aravindgit2005/leetcode/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Aravindgit2005/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aravindgit2005/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Aravindgit2005/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Aravindgit2005/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Aravindgit2005/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aravindgit2005/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aravindgit2005/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Aravindgit2005/leetcode/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/Aravindgit2005/leetcode/tree/master/0561-array-partition) |
 | [1903-largest-odd-number-in-string](https://github.com/Aravindgit2005/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Bucket Sort

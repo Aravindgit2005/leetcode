@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Aravindgit2005/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aravindgit2005/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aravindgit2005/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Aravindgit2005/leetcode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Aravindgit2005/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Aravindgit2005/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aravindgit2005/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aravindgit2005/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aravindgit2005/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Aravindgit2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/Aravindgit2005/leetcode/tree/master/0561-array-partition) |
 ## Counting
 |  |
 | ------- |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aravindgit2005/leetcode/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/Aravindgit2005/leetcode/tree/master/0561-array-partition) |
 | [1903-largest-odd-number-in-string](https://github.com/Aravindgit2005/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Bucket Sort
 |  |
@@ -361,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aravindgit2005/leetcode/tree/master/0239-sliding-window-maximum) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Aravindgit2005/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->

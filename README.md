@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Aravindgit2005/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Aravindgit2005/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aravindgit2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aravindgit2005/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Aravindgit2005/leetcode/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/Aravindgit2005/leetcode/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Aravindgit2005/leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aravindgit2005/leetcode/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/Aravindgit2005/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/Aravindgit2005/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aravindgit2005/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Binary Search
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Aravindgit2005/leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Aravindgit2005/leetcode/tree/master/0258-add-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aravindgit2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aravindgit2005/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Aravindgit2005/leetcode/tree/master/3379-transformed-array) |
 ## Linked List
 |  |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Aravindgit2005/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Aravindgit2005/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aravindgit2005/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aravindgit2005/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Prefix Sum
 |  |
 | ------- |

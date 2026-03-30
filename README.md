@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Aravindgit2005/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1695-maximum-erasure-value](https://github.com/Aravindgit2005/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aravindgit2005/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2374-node-with-highest-edge-score](https://github.com/Aravindgit2005/leetcode/tree/master/2374-node-with-highest-edge-score) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aravindgit2005/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Aravindgit2005/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Aravindgit2005/leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -388,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Aravindgit2005/leetcode/tree/master/0561-array-partition) |
+## Graph Theory
+|  |
+| ------- |
+| [2374-node-with-highest-edge-score](https://github.com/Aravindgit2005/leetcode/tree/master/2374-node-with-highest-edge-score) |
 <!---LeetCode Topics End-->

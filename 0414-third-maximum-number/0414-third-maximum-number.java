@@ -1,6 +1,6 @@
 class Solution {
     public int thirdMax(int[] nums) {
-    Integer first = null, second = null, third = null;
+                Integer first = null, second = null, third = null;
 
       for (Integer num : nums) {
             if (num.equals(first) || num.equals(second) || num.equals(third)) continue;

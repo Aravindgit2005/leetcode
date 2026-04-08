@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aravindgit2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Aravindgit2005/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aravindgit2005/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Aravindgit2005/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3379-transformed-array](https://github.com/Aravindgit2005/leetcode/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/Aravindgit2005/leetcode/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Aravindgit2005/leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Aravindgit2005/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Aravindgit2005/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aravindgit2005/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Aravindgit2005/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
 | ------- |

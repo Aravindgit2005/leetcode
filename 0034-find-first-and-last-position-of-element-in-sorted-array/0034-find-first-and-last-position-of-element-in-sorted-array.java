@@ -17,7 +17,7 @@ class Solution {
 
             if(nums[mid] == target){
                 ans = mid;
-                right = mid - 1;   // move left
+                right = mid - 1;   
             }
             else if(nums[mid] < target){
                 left = mid + 1;
@@ -40,7 +40,7 @@ class Solution {
 
             if(nums[mid] == target){
                 ans = mid;
-                left = mid + 1;   // move right
+                left = mid + 1;   
             }
             else if(nums[mid] < target){
                 left = mid + 1;

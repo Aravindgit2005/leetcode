@@ -1,13 +1,20 @@
 
 public class Solution {
     public ListNode detectCycle(ListNode head) {
-        Set<ListNode>st=new HashSet<>();
-        while(head!=null){
-            if(st.contains(head)){
-                return head;
+        ListNode f=head;
+        ListNode s=head;
+        while(f!=null && f.next!=null){
+            f=f.next.next;
+            s=s.next;
+            if(s==f){
+                s=head;
+                while(s!=f){
+                    s=s.next;
+                    f=f.next;
+                }
+                return s;
             }
-            st.add(head);
-            head=head.next;
+
         }
         return null;
     }

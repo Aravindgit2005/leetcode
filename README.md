@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Aravindgit2005/leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Aravindgit2005/leetcode/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/Aravindgit2005/leetcode/tree/master/0696-count-binary-substrings) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Aravindgit2005/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aravindgit2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Aravindgit2005/leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Math
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Aravindgit2005/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aravindgit2005/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Aravindgit2005/leetcode/tree/master/0328-odd-even-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Aravindgit2005/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

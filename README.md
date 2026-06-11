@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Aravindgit2005/leetcode/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/Aravindgit2005/leetcode/tree/master/0696-count-binary-substrings) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Aravindgit2005/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aravindgit2005/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aravindgit2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Aravindgit2005/leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Math
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Aravindgit2005/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Aravindgit2005/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Aravindgit2005/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aravindgit2005/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Aravindgit2005/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Aravindgit2005/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Heap (Priority Queue)

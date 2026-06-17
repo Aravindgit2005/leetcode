@@ -10,6 +10,6 @@ public class Solution {
             j = (j == null) ? headA : j.next;
         }
 
-        return i;
+        return j;
     }
 }

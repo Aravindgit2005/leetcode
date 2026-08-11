@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aravindgit2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Aravindgit2005/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aravindgit2005/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aravindgit2005/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Aravindgit2005/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3379-transformed-array](https://github.com/Aravindgit2005/leetcode/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/Aravindgit2005/leetcode/tree/master/3637-trionic-array-i) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aravindgit2005/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2374-node-with-highest-edge-score](https://github.com/Aravindgit2005/leetcode/tree/master/2374-node-with-highest-edge-score) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aravindgit2005/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aravindgit2005/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3713-longest-balanced-substring-i](https://github.com/Aravindgit2005/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Aravindgit2005/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## String
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Aravindgit2005/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Aravindgit2005/leetcode/tree/master/0561-array-partition) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aravindgit2005/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aravindgit2005/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting
 |  |
 | ------- |
